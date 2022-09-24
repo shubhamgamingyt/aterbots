@@ -1,0 +1,11 @@
+{
+    "ip": "ShivPrathmeshSMP.aternos.me",
+    "port": "57325",
+    "name": "Entity5x1",
+    "auto-reconnect": "true",
+    "comment": "If True Then Bot Will Skip Night",
+    "login-enabled": "false",
+    "comment": "If True Then Bot Will Login/Register",
+    "register-cmd": "/register {password} {password}",
+    "login-cmd": "/login {password}"
+   }
